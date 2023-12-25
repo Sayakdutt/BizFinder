@@ -1,4 +1,4 @@
-# Business Finding App
+# BizFnder
 
 Welcome to the BizFinder App! This web application is built using the latest technologies, including Next.js, React, Tailwind CSS, Google Places API, and TypeScript. This README file will guide you through the setup and usage of the app.
 
@@ -11,7 +11,7 @@ Welcome to the BizFinder App! This web application is built using the latest tec
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
